@@ -1,0 +1,17 @@
+@font-face {
+  font-family: monteserrat-regular;
+  src: url("../fonts/Montserrat-Regular.ttf");
+}
+@font-face {
+  font-family: monteserrat-semibold;
+  src: url("../fonts/Montserrat-SemiBold.ttf");
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: monteserrat-regular !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 16px;
+}
